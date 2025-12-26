@@ -12,7 +12,7 @@
             </span>
         </div>
         <h1 class="text-5xl md:text-7xl font-black uppercase tracking-tighter mb-6 leading-none">
-            Visi, Misi <br> <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-cyan-300">& Tujuan</span>
+            Visi, Misi <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-cyan-300">& Tujuan</span>
         </h1>
         <p class="text-blue-100 max-w-2xl mx-auto italic text-lg opacity-80 font-light leading-relaxed">
             "Menjadi kompas bagi SDN 2 MARGASARI dalam membentuk karakter unggul dan kecemerlangan akademik di era digital."

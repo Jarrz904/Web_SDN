@@ -19,14 +19,70 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
             @php
                 $teachers = [
-                    ['nama' => 'H. Ahmad Fauzi, M.Pd', 'jabatan' => 'Kepala Sekolah', 'nip' => '19750312 200003 1 004'],
-                    ['nama' => 'Siti Maryam, S.Pd', 'jabatan' => 'Wali Kelas 6A', 'nip' => '19820521 201001 2 015'],
-                    ['nama' => 'Budi Santoso, S.Pd.SD', 'jabatan' => 'Wali Kelas 5A', 'nip' => '19881005 201402 1 002'],
-                    ['nama' => 'Lestari Handayani, S.Pd', 'jabatan' => 'Guru Agama', 'nip' => '19850115 200903 2 008'],
-                    ['nama' => 'Rahmat Hidayat, S.Pd', 'jabatan' => 'Guru PJOK', 'nip' => '19920730 201903 1 011'],
-                    ['nama' => 'Dewi Sartika, S.Si', 'jabatan' => 'Wali Kelas 4B', 'nip' => '19900412 201502 2 003'],
-                    ['nama' => 'Annas Muttaqin, S.Pd', 'jabatan' => 'Guru Bahasa Inggris', 'nip' => '19941122 202001 1 009'],
-                    ['nama' => 'Siska Amelia, S.Pd', 'jabatan' => 'Guru Kesenian', 'nip' => '19930218 201902 2 004'],
+                    [
+                        'nama' => 'Muhammad Fajar Sidik, M.Kom', 
+                        'jabatan' => 'Kepala Sekolah', 
+                        'nip' => '19750312 200003 1 004',
+                        'foto' => 'images/kepala-sekolah.jpg', // Ganti link foto di sini
+                        'ig' => 'https://instagram.com/username', 
+                        'fb' => 'https://facebook.com/username'
+                    ],
+                    [
+                        'nama' => 'Siti Maryam, S.Pd', 
+                        'jabatan' => 'Wali Kelas 6A', 
+                        'nip' => '19820521 201001 2 015',
+                        'foto' => 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Budi Santoso, S.Pd.SD', 
+                        'jabatan' => 'Wali Kelas 5A', 
+                        'nip' => '19881005 201402 1 002',
+                        'foto' => 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Lestari Handayani, S.Pd', 
+                        'jabatan' => 'Guru Agama', 
+                        'nip' => '19850115 200903 2 008',
+                        'foto' => 'https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Rahmat Hidayat, S.Pd', 
+                        'jabatan' => 'Guru PJOK', 
+                        'nip' => '19920730 201903 1 011',
+                        'foto' => 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Dewi Sartika, S.Si', 
+                        'jabatan' => 'Wali Kelas 4B', 
+                        'nip' => '19900412 201502 2 003',
+                        'foto' => 'https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Annas Muttaqin, S.Pd', 
+                        'jabatan' => 'Guru Bahasa Inggris', 
+                        'nip' => '19941122 202001 1 009',
+                        'foto' => 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
+                    [
+                        'nama' => 'Siska Amelia, S.Pd', 
+                        'jabatan' => 'Guru Kesenian', 
+                        'nip' => '19930218 201902 2 004',
+                        'foto' => 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400',
+                        'ig' => '#', 
+                        'fb' => '#'
+                    ],
                 ];
             @endphp
 
@@ -36,13 +92,17 @@
                 
                 <div class="relative bg-white rounded-[2rem] shadow-sm overflow-hidden border border-slate-100 hover:shadow-2xl transition-all duration-500 group-hover:-translate-y-4">
                     <div class="aspect-[4/5] bg-slate-100 relative overflow-hidden">
-                        <img src="https://ui-avatars.com/api/?name={{ urlencode($teacher['nama']) }}&background=f1f5f9&color=1e3a8a&size=400" 
+                        <img src="{{ $teacher['foto'] ?? 'https://ui-avatars.com/api/?name='.urlencode($teacher['nama']).'&background=f1f5f9&color=1e3a8a&size=400' }}" 
                              alt="{{ $teacher['nama'] }}" 
                              class="w-full h-full object-cover transform group-hover:scale-110 transition duration-700">
                         
                         <div class="absolute inset-0 bg-blue-900/60 flex items-center justify-center gap-3 opacity-0 group-hover:opacity-100 transition duration-500">
-                            <a href="#" class="w-10 h-10 bg-white rounded-full flex items-center justify-center text-blue-900 hover:bg-green-500 hover:text-white transition"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="w-10 h-10 bg-white rounded-full flex items-center justify-center text-blue-900 hover:bg-green-500 hover:text-white transition"><i class="fab fa-facebook-f"></i></a>
+                            <a href="{{ $teacher['ig'] }}" target="_blank" class="w-10 h-10 bg-white rounded-full flex items-center justify-center text-blue-900 hover:bg-green-500 hover:text-white transition">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="{{ $teacher['fb'] }}" target="_blank" class="w-10 h-10 bg-white rounded-full flex items-center justify-center text-blue-900 hover:bg-green-500 hover:text-white transition">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
                         </div>
 
                         <div class="absolute bottom-4 left-4 right-4">

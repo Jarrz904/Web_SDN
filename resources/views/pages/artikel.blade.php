@@ -127,12 +127,6 @@
             </div>
             @endforeach
         </div>
-
-        <div class="mt-20 flex justify-center gap-2">
-            <button class="w-12 h-12 bg-white border border-slate-200 rounded-2xl flex items-center justify-center text-slate-400 hover:bg-blue-900 hover:text-white transition shadow-sm font-bold italic">1</button>
-            <button class="w-12 h-12 bg-white border border-slate-200 rounded-2xl flex items-center justify-center text-slate-400 hover:bg-blue-900 hover:text-white transition shadow-sm font-bold italic">2</button>
-            <button class="w-12 h-12 bg-white border border-slate-200 rounded-2xl flex items-center justify-center text-slate-400 hover:bg-blue-900 hover:text-white transition shadow-sm font-bold italic"><i class="fas fa-chevron-right"></i></button>
-        </div>
     </div>
 </section>
 @endsection
