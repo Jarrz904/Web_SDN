@@ -63,6 +63,11 @@ Route::get('/galeri', function () {
     return view('pages.galeri');
 });
 
+// Pusat Informasi Sekolah (Rute Baru untuk Menu Informasi)
+Route::get('/informasi', function () {
+    return view('pages.informasi');
+});
+
 /**
  * Grup Route untuk Berita & Artikel
  */

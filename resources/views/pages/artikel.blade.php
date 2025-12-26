@@ -9,7 +9,7 @@
             </span>
         </div>
         <h1 class="text-5xl md:text-6xl font-black text-slate-900 uppercase tracking-tighter mb-6">
-            Berita <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">& Artikel</span>
+     <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">Artikel</span>
         </h1>
         <p class="text-gray-500 text-lg italic max-w-2xl mx-auto">Informasi terkini mengenai kegiatan, prestasi, dan pengumuman resmi dari SDN 2 MARGASARI.</p>
         <div class="w-24 h-1.5 bg-green-500 mx-auto mt-8 rounded-full"></div>

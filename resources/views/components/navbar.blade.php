@@ -35,10 +35,14 @@
             </div>
         </div>
 
-        <a href="{{ url('/kesiswaan') }}" class="{{ Request::is('kesiswaan') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Kesiswaan</a>
-        <a href="{{ url('/berita') }}" class="{{ Request::is('berita') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Berita</a>
-        <a href="{{ url('/galeri') }}" class="{{ Request::is('galeri') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Galeri</a>
-        <a href="{{ url('/artikel') }}" class="{{ Request::is('artikel') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Artikel</a>
+       <a href="{{ url('/kesiswaan') }}" class="{{ Request::is('kesiswaan') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Kesiswaan</a>
+<a href="{{ url('/berita') }}" class="{{ Request::is('berita') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Berita</a>
+
+{{-- Menu Informasi Baru --}}
+<a href="{{ url('/informasi') }}" class="{{ Request::is('informasi') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Informasi</a>
+
+<a href="{{ url('/galeri') }}" class="{{ Request::is('galeri') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Galeri</a>
+<a href="{{ url('/artikel') }}" class="{{ Request::is('artikel') ? 'text-green-500' : '' }} hover:text-green-500 transition font-bold">Artikel</a>
     </div>
 
     <div class="md:hidden">

@@ -7,10 +7,10 @@
             
             <div class="space-y-4">
                 <div class="flex items-center gap-3">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Tut_Wuri_Handayani.png" class="w-10 drop-shadow-lg" alt="Logo">
+                    <img src="{{ asset('/images/76.png') }}" class="w-10 drop-shadow-lg" alt="Logo">
                     <div>
                         <h2 class="text-lg font-black leading-tight tracking-tighter uppercase">SDN 2<br><span class="text-green-500">MARGASARI</span></h2>
-                        <span class="inline-block px-2 py-0.5 bg-blue-600 text-[7px] font-black rounded uppercase tracking-widest mt-1">Sekolah Penggerak</span>
+                        <span class="inline-block px-2 py-0.5 bg-blue-600 text-[7px] font-black rounded uppercase tracking-widest mt-1">Sekolah Dasar</span>
                     </div>
                 </div>
                 <p class="text-slate-400 text-[11px] leading-relaxed italic font-medium max-w-xs">
@@ -73,7 +73,7 @@
 
         <div class="border-t border-slate-800 pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
             <p class="text-[9px] font-black uppercase tracking-[0.2em] text-slate-500">
-                © 2025 <span class="text-slate-300">SDN 2 MARGASARI</span>. All Rights Reserved.
+                © 2025 <span class="text-slate-300">Jarrz</span>. All Rights Reserved.
             </p>
             <div class="flex flex-wrap justify-center items-center gap-4">
                 <span class="text-[8px] font-black uppercase tracking-widest text-slate-600 italic">Tim IT SDN 2 MARGASARI</span>
