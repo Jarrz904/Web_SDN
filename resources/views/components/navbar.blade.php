@@ -40,6 +40,11 @@
             <i class="fas fa-bullseye mr-2 text-[10px]"></i> Visi, Misi & Tujuan
         </a>
 
+         <a href="{{ url('/profil') }}"
+            class="block py-2.5 px-4 rounded-lg {{ Request::is('profil*') ? 'bg-green-50 text-green-500' : 'text-slate-600' }} hover:bg-green-50 hover:text-green-500 italic font-medium text-xs transition uppercase mb-1">
+            <i class="fas fa-bullseye mr-2 text-[10px]"></i> Profil
+        </a>
+
         <a href="{{ url('/guru') }}"
             class="block py-2.5 px-4 rounded-lg {{ Request::is('guru*') ? 'bg-green-50 text-green-500' : 'text-slate-600' }} hover:bg-green-50 hover:text-green-500 italic font-medium text-xs transition uppercase mb-1">
             <i class="fas fa-user-tie mr-2 text-[10px]"></i> Data Guru
