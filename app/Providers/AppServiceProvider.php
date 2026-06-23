@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\URL; // <-- 1. WAJIB TAMBAH IMPORT INI
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -19,9 +20,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        // Tambahkan ini
+        // Tambahkan ini untuk memaksa HTTPS di Vercel
         if (config('app.env') !== 'local') {
-            \URL::forceScheme('https');
+            URL::forceScheme('https'); // <-- 2. UBAH JADI SEPERTI INI (Tanpa backslash)
         }
     }
 }
