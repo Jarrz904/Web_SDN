@@ -8,8 +8,8 @@ require __DIR__ . '/../vendor/autoload.php';
 
 $app = require_once __DIR__ . '/../bootstrap/app.php';
 
-// 🔥 INJEKSI HANDLER KUSTOM: Matikan sistem error bawaan Laravel yang rusak
-$app->singleton(
+// 🔥 PERBAIKAN: Menggunakan ->instance() agar lolos dari validasi Type Hint Laravel modern
+$app->instance(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
     new class implements Illuminate\Contracts\Debug\ExceptionHandler {
         public function report(\Throwable $e) {}
@@ -25,5 +25,5 @@ $app->singleton(
     }
 );
 
-// Jalankan aplikasi seperti biasa
+// Jalankan aplikasi
 $app->handleRequest(Request::capture());
