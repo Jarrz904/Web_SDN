@@ -5,7 +5,7 @@
     <div class="container mx-auto px-6 md:px-20 text-center">
         <div class="inline-block px-4 py-1.5 bg-green-50 rounded-full mb-6">
             <span class="text-green-600 font-black text-xs uppercase tracking-[0.3em] flex items-center gap-2">
-                <i class="fas fa-book-reader"></i> E-Library SDN 2 Margasari
+                <i class="fas fa-book-reader"></i> E-Library SDN 3 Lamuk
             </span>
         </div>
         <h1 class="text-5xl md:text-6xl font-black text-slate-900 uppercase tracking-tighter mb-6">

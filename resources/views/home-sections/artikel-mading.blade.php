@@ -5,7 +5,7 @@
             <div class="flex items-center justify-between mb-10">
                 <h3 class="text-3xl font-black text-slate-800 tracking-tighter uppercase flex items-center gap-3">
                     <span class="bg-orange-500 text-white w-10 h-10 flex items-center justify-center rounded-xl shadow-lg shadow-orange-200 text-xl">#</span> 
-                    Artikel Terbaru
+                    Buku Terbaru
                 </h3>
                 <a href="{{ url('/artikel') }}" class="group text-xs font-black text-orange-500 flex items-center gap-2 hover:text-orange-600 transition">
                     LIHAT SEMUA <i class="fas fa-arrow-right transition group-hover:translate-x-1"></i>
@@ -15,7 +15,7 @@
             <div class="space-y-6">
                 <div class="group border-l-4 border-orange-400 pl-6 py-4 bg-white hover:bg-orange-50/50 transition-all rounded-r-3xl cursor-pointer relative overflow-hidden">
                     <div class="absolute right-0 top-0 h-full w-1 bg-orange-100 opacity-0 group-hover:opacity-100 transition"></div>
-                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Tips Mendampingi Anak Belajar di Rumah agar Menyenangkan</h4>
+                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Kisah Si Kancil dan Buaya yang Menipu</h4>
                     <div class="flex items-center gap-4 mt-3">
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://ui-avatars.com/api/?name=Siti+Maryam&background=FFEDD5&color=F97316" class="w-5 h-5 rounded-full" alt="Author">
@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="group border-l-4 border-orange-400 pl-6 py-4 bg-white hover:bg-orange-50/50 transition-all rounded-r-3xl cursor-pointer">
-                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Pentingnya Literasi Digital Sejak Dini di Era Kecerdasan Buatan</h4>
+                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Petualangan Seru di Tata Surya Kita</h4>
                     <div class="flex items-center gap-4 mt-3">
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://ui-avatars.com/api/?name=Admin&background=E0F2FE&color=0EA5E9" class="w-5 h-5 rounded-full" alt="Author">
@@ -43,7 +43,8 @@
                 </div>
 
                 <div class="group border-l-4 border-orange-400 pl-6 py-4 bg-white hover:bg-orange-50/50 transition-all rounded-r-3xl cursor-pointer">
-                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Mengenal Kurikulum Merdeka di SDN 3 Lamuk</h4>
+                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Pahlawan Cilik: Menjaga Kebersihan Sekolah
+</h4>
                     <div class="flex items-center gap-4 mt-3">
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://ui-avatars.com/api/?name=Kepala+Sekolah&background=DCFCE7&color=16A34A" class="w-5 h-5 rounded-full" alt="Author">
@@ -57,7 +58,7 @@
                 </div>
 
                 <div class="group border-l-4 border-orange-400 pl-6 py-4 bg-white hover:bg-orange-50/50 transition-all rounded-r-3xl cursor-pointer">
-                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Manfaat Sarapan Pagi Bagi Konsentrasi Belajar Siswa</h4>
+                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Misteri Gigi Berlubang Si Tino</h4>
                     <div class="flex items-center gap-4 mt-3">
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://ui-avatars.com/api/?name=UKS+Team&background=FEE2E2&color=EF4444" class="w-5 h-5 rounded-full" alt="Author">
