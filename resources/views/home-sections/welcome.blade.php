@@ -11,7 +11,7 @@
                     </span>
                 </div>
                 <h1 class="text-4xl md:text-5xl font-black text-slate-900 leading-tight mb-6">
-                    Selamat Datang di Website Resmi <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">SDN 2 Margasari</span>
+                    Selamat Datang di Website Resmi <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">SDN 3 Lamuk</span>
                 </h1>
                 <p class="text-gray-500 text-lg leading-relaxed mb-8 italic">
                     "Mewujudkan generasi cerdas, berakhlak mulia, dan inovatif di era digital melalui pendidikan yang berkualitas dan lingkungan belajar yang menyenangkan."
@@ -28,7 +28,7 @@
 
             <div class="md:w-1/2 relative">
                 <div class="relative rounded-[3rem] overflow-hidden shadow-2xl border-[12px] border-white transform hover:scale-[1.02] transition duration-500">
-                    <img src="https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=800" alt="Gedung SDN 2 Margasari" class="w-full h-[450px] object-cover">
+                    <img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAExy1mKjvbpib8VDfvdMASsLXxBK7fdNFXZ1mYEtn0PXiErIWxaBGDFkJvqUpQV16VKa0wa_vVN4hkFxJxrKc0_niTS4k6HUjKchn8J4EevVixsS_fUoKGmFLUKQf2cyYKSPL_7ng=w408-h306-k-no" alt="Gedung SDN 2 Margasari" class="w-full h-[450px] object-cover">
                     <div class="absolute bottom-8 right-8 bg-white/90 backdrop-blur-md p-6 rounded-3xl shadow-xl border border-white">
                         <div class="text-center">
                             <p class="text-3xl font-black text-blue-900">A</p>

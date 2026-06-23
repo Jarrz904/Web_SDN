@@ -12,7 +12,7 @@
                 </div>
                 
                 <div class="absolute bottom-6 left-4 right-4 bg-blue-900/95 backdrop-blur-md text-white p-5 rounded-2xl shadow-2xl border-l-4 border-green-500 transform translate-y-2 group-hover:translate-y-0 transition duration-500">
-                    <p class="font-black text-xl leading-tight uppercase tracking-tight">Muhammad Fajar, M.Kom</p>
+                    <p class="font-black text-xl leading-tight uppercase tracking-tight">M. Fajar Sidik, M.Kom</p>
                     <div class="flex items-center gap-2 mt-1">
                         <span class="w-4 h-[2px] bg-green-400"></span>
                         <p class="text-[11px] opacity-90 italic font-medium uppercase tracking-wider text-green-400">Kepala Sekolah SDN-2 Margasari</p>
@@ -41,7 +41,7 @@
 
             <div class="space-y-4 text-gray-600 leading-relaxed text-lg italic">
                 <p>
-                    "Assalamu'alaikum Wr. Wb. Selamat datang di portal resmi <span class="font-bold text-blue-900">SDN-2 Margasari</span>. Kami berkomitmen untuk menyediakan lingkungan belajar yang inovatif dan inspiratif..."
+                    "Assalamu'alaikum Wr. Wb. Selamat datang di portal resmi <span class="font-bold text-blue-900">SDN-3 Lamuk</span>. Kami berkomitmen untuk menyediakan lingkungan belajar yang inovatif dan inspiratif..."
                 </p>
                 <p class="text-base not-italic text-gray-500">
                     Melalui sinergi antara guru, orang tua, dan teknologi, kami berupaya mencetak lulusan yang siap menghadapi tantangan zaman dengan akhlakul karimah.

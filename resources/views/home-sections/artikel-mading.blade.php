@@ -43,7 +43,7 @@
                 </div>
 
                 <div class="group border-l-4 border-orange-400 pl-6 py-4 bg-white hover:bg-orange-50/50 transition-all rounded-r-3xl cursor-pointer">
-                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Mengenal Kurikulum Merdeka di SDN 2 Margasari</h4>
+                    <h4 class="font-bold group-hover:text-orange-600 text-xl tracking-tight transition duration-300">Mengenal Kurikulum Merdeka di SDN 3 Lamuk</h4>
                     <div class="flex items-center gap-4 mt-3">
                         <div class="flex items-center gap-2 text-xs text-gray-400">
                             <img src="https://ui-avatars.com/api/?name=Kepala+Sekolah&background=DCFCE7&color=16A34A" class="w-5 h-5 rounded-full" alt="Author">
@@ -85,7 +85,7 @@
                 <div class="bg-white p-7 rounded-sm shadow-[10px_10px_0px_rgba(22,163,74,0.1)] -rotate-1 hover:rotate-0 transition duration-500 border-t-[12px] border-yellow-400 relative group">
                     <div class="absolute -top-3 right-4 w-6 h-6 bg-blue-500 rounded-full opacity-0 group-hover:opacity-100 transition shadow-inner"></div>
                     <p class="text-gray-700 font-bold italic leading-relaxed text-lg">
-                        "Kebersihan adalah sebagian dari iman. Mari jaga sekolah kita tercinta SDN 2 Margasari tetap hijau!"
+                        "Kebersihan adalah sebagian dari iman. Mari jaga sekolah kita tercinta SDN 3 Lamuk tetap hijau!"
                     </p>
                     <div class="flex justify-between items-center mt-6 pt-4 border-t border-gray-100">
                         <span class="text-[10px] font-black text-green-600 uppercase tracking-widest bg-green-50 px-2 py-1 rounded">#KaryaSiswa</span>

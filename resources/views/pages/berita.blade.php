@@ -12,7 +12,7 @@
                 </div>
                 <h1 class="text-4xl md:text-5xl font-black text-slate-900 tracking-tighter uppercase">
                     Update Berita <br>
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">SDN 2 MARGASARI</span>
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">SDN 3 LAMUK</span>
                 </h1>
             </div>
             

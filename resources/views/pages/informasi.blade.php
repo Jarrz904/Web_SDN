@@ -11,7 +11,7 @@
                 Pusat <span class="bg-gradient-to-r from-blue-700 to-green-600 bg-clip-text text-transparent">Informasi</span>
             </h2>
             <p class="text-slate-500 mt-4 italic max-w-2xl mx-auto text-lg">
-                Jendela informasi resmi SDN 2 Margasari. Temukan pengumuman, agenda kegiatan, dan prestasi terbaru kami di sini.
+                Jendela informasi resmi SDN 3 Lamuk. Temukan pengumuman, agenda kegiatan, dan prestasi terbaru kami di sini.
             </p>
             <div class="h-1.5 w-24 bg-gradient-to-r from-blue-700 to-green-600 mx-auto mt-6 rounded-full"></div>
         </div>
@@ -65,7 +65,7 @@
                         <i class="far fa-calendar-alt text-orange-500"></i> 15 Desember 2025
                     </div>
                     <h3 class="text-xl font-bold text-slate-900 leading-tight mb-4 group-hover:text-blue-700 transition-colors">Juara 1 Lomba Cerdas Cermat Kabupaten</h3>
-                    <p class="text-slate-600 text-sm leading-relaxed mb-6 line-clamp-3">Selamat kepada tim cerdas cermat SDN 2 Margasari yang berhasil meraih podium pertama tahun ini.</p>
+                    <p class="text-slate-600 text-sm leading-relaxed mb-6 line-clamp-3">Selamat kepada tim cerdas cermat SDN 3 Lamuk yang berhasil meraih podium pertama tahun ini.</p>
                     <a href="#" class="inline-flex items-center gap-2 text-blue-700 font-extrabold text-xs uppercase tracking-widest group/btn">
                         Selengkapnya <i class="fas fa-chevron-right text-[10px] group-hover/btn:translate-x-2 transition-transform"></i>
                     </a>

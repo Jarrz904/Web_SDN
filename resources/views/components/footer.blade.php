@@ -9,7 +9,7 @@
                 <div class="flex items-center gap-3">
                     <img src="{{ asset('/images/76.png') }}" class="w-10 drop-shadow-lg" alt="Logo">
                     <div>
-                        <h2 class="text-lg font-black leading-tight tracking-tighter uppercase">SDN 2<br><span class="text-green-500">MARGASARI</span></h2>
+                        <h2 class="text-lg font-black leading-tight tracking-tighter uppercase">SDN 3<br><span class="text-green-500">LAMUK</span></h2>
                         <span class="inline-block px-2 py-0.5 bg-blue-600 text-[7px] font-black rounded uppercase tracking-widest mt-1">Sekolah Dasar</span>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                 <div class="space-y-3 text-[11px] text-slate-400">
                     <div class="flex gap-3">
                         <i class="fas fa-map-marker-alt text-green-500 mt-1 shrink-0"></i>
-                        <p class="leading-snug">Jl. Margasari No. 02, Kec. Margasari, Tegal, Jawa Tengah</p>
+                        <p class="leading-snug">Jl. Lamuk No. 02, Kec. Kaliwiro, Wonosobo, Jawa Tengah</p>
                     </div>
                     <div class="flex gap-3">
                         <i class="fas fa-phone-alt text-green-500 shrink-0"></i>
@@ -62,12 +62,20 @@
                     </div>
                     <div class="flex gap-3">
                         <i class="fas fa-envelope text-green-500 shrink-0"></i>
-                        <p class="font-bold text-slate-200">admin@sdn2margasari.sch.id</p>
+                        <p class="font-bold text-slate-200">admin@sdn3Lamuk.sch.id</p>
                     </div>
                 </div>
                 <div class="mt-4 rounded-xl overflow-hidden h-20 bg-slate-800 border border-slate-700 group">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15843.123456789!2d109.1234567!3d-7.1234567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMDcnMjQuNCJTIDEwOcKwMDcnMjQuNCJF!5e0!3m2!1sid!2sid!4v1234567890" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="grayscale group-hover:grayscale-0 transition-all duration-500"></iframe>
-                </div>
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.568453472483!2d109.849673874999!3d-7.291771992735742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7aa50d155ca55b%3A0xe216c0e21a9101c0!2sSD%20NEGERI%203%20LAMUK!5e0!3m2!1sid!2sid!4v1719128000000!5m2!1sid!2sid" 
+        width="100%" 
+        height="100%" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        class="grayscale group-hover:grayscale-0 transition-all duration-500">
+    </iframe>
+</div>
             </div>
         </div>
 
@@ -76,7 +84,7 @@
                 © 2025 <span class="text-slate-300">Jarrz</span>. All Rights Reserved.
             </p>
             <div class="flex flex-wrap justify-center items-center gap-4">
-                <span class="text-[8px] font-black uppercase tracking-widest text-slate-600 italic">Tim IT SDN 2 MARGASARI</span>
+                <span class="text-[8px] font-black uppercase tracking-widest text-slate-600 italic">Tim IT SDN 3 LAMUK</span>
                 <div class="h-3 w-px bg-slate-800 hidden md:block"></div>
                 <div class="flex gap-3 text-[9px] font-bold text-slate-500 uppercase">
                     <a href="#" class="hover:text-green-500 transition">Privasi</a>

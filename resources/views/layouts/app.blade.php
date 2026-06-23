@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SDN-2 Margasari - Sekolah Dasar </title>
+    <title>SDN-3 Lamuk - Sekolah Dasar </title>
     
     <script src="https://cdn.tailwindcss.com"></script>
     

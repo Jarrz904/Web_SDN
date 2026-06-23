@@ -20,7 +20,7 @@
             @php
                 $teachers = [
                     [
-                        'nama' => 'Muhammad Fajar Sidik, M.Kom', 
+                        'nama' => 'M. Fajar Sidik, M.Kom', 
                         'jabatan' => 'Kepala Sekolah', 
                         'nip' => '19750312 200003 1 004',
                         'foto' => 'images/kepala-sekolah.jpg', // Ganti link foto di sini

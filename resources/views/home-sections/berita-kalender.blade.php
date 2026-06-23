@@ -8,7 +8,7 @@
                         <span class="w-2 h-10 bg-green-500 rounded-full"></span> 
                         Kabar Terkini
                     </h3>
-                    <p class="text-gray-500 text-sm mt-1 ml-5">Informasi terbaru seputar SDN 2 MARGASARI</p>
+                    <p class="text-gray-500 text-sm mt-1 ml-5">Informasi terbaru seputar SDN 3 Lamuk</p>
                 </div>
                 <a href="{{ url('/berita') }}" class="text-blue-600 font-bold text-sm hover:text-blue-800 transition flex items-center gap-1 group">
                     Lihat Semua <i class="fas fa-arrow-right text-[10px] group-hover:translate-x-1 transition"></i>

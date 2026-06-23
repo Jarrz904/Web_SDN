@@ -16,10 +16,10 @@
                 </div>
                 <h1 class="text-5xl md:text-6xl font-black text-slate-900 mt-2 mb-8 leading-[1.1]">
                     Profil <br>
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-blue-600">SDN 2 MARGASARI</span>
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-blue-600">SDN 3 LAMUK</span>
                 </h1>
                 <p class="text-gray-600 leading-relaxed text-lg mb-10">
-                    SDN 2 Margasari merupakan institusi pendidikan dasar unggulan yang berdedikasi untuk menciptakan lingkungan belajar yang inspiratif, inovatif, dan religius. Terletak di lingkungan yang asri, kami telah menjadi rumah bagi generasi cerdas untuk tumbuh dan berkembang sejak tahun 1985.
+                    SDN 3 Lamuk merupakan institusi pendidikan dasar unggulan yang berdedikasi untuk menciptakan lingkungan belajar yang inspiratif, inovatif, dan religius. Terletak di lingkungan yang asri, kami telah menjadi rumah bagi generasi cerdas untuk tumbuh dan berkembang sejak tahun 1985.
                 </p>
                 
                 <div class="grid grid-cols-3 gap-8">
@@ -44,7 +44,7 @@
                 
                 <div class="relative">
                     <div class="absolute -inset-4 bg-gradient-to-tr from-blue-900 to-green-500 rounded-[2.5rem] opacity-10 group-hover:opacity-20 transition duration-500"></div>
-                    <img src="https://sdnsusukan07.sch.id/assets/img_galeri/DSC_0032_small.jpg" 
+                    <img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAExy1mKjvbpib8VDfvdMASsLXxBK7fdNFXZ1mYEtn0PXiErIWxaBGDFkJvqUpQV16VKa0wa_vVN4hkFxJxrKc0_niTS4k6HUjKchn8J4EevVixsS_fUoKGmFLUKQf2cyYKSPL_7ng=w408-h306-k-no" 
                          alt="Gedung SDN 2 Margasari" 
                          class="rounded-[2rem] shadow-2xl relative z-10 w-full h-[500px] object-cover border-4 border-white transition duration-500 group-hover:scale-[1.02]">
                     
@@ -77,7 +77,7 @@
                 </div>
                 <h3 class="text-2xl font-black text-slate-800 mb-4 uppercase tracking-tight">Sejarah Singkat</h3>
                 <p class="text-gray-500 leading-relaxed">
-                    Didirikan pada tahun 1985, SDN 2 Margasari terus bertransformasi mengikuti perkembangan zaman. Dari gedung sederhana hingga kini menjadi sekolah rujukan dengan fasilitas teknologi digital yang mumpuni.
+                    Didirikan pada tahun 1985, SDN 3 Lamuk terus bertransformasi mengikuti perkembangan zaman. Dari gedung sederhana hingga kini menjadi sekolah rujukan dengan fasilitas teknologi digital yang mumpuni.
                 </p>
             </div>
 
@@ -132,17 +132,17 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-y-10 gap-x-16">
                     <div class="group">
                         <p class="text-green-500 text-[10px] uppercase font-black tracking-[0.2em] mb-2">Alamat Institusi</p>
-                        <p class="text-lg leading-relaxed text-blue-50 group-hover:text-green-400 transition">Jl. Margasari No. 02, Kec. Margasari, Kab. Tegal</p>
+                        <p class="text-lg leading-relaxed text-blue-50 group-hover:text-green-400 transition">Jl. Lamuk No. 03, Kec. Kaliwiro, Kab. Wonosobo</p>
                     </div>
                     
                     <div class="group">
                         <p class="text-green-500 text-[10px] uppercase font-black tracking-[0.2em] mb-2">Pimpinan Sekolah</p>
-                        <p class="text-xl font-black italic group-hover:text-green-400 transition underline underline-offset-8 decoration-blue-700">MUHAMMAD FAJAR, M.Kom.</p>
+                        <p class="text-xl font-black italic group-hover:text-green-400 transition underline underline-offset-8 decoration-blue-700">M. FAJAR, M.Kom.</p>
                     </div>
                     
                     <div class="group">
                         <p class="text-green-500 text-[10px] uppercase font-black tracking-[0.2em] mb-2">Kontak Email</p>
-                        <p class="text-lg text-blue-50 group-hover:text-green-400 transition font-medium">kontak@sdn2margasari.sch.id</p>
+                        <p class="text-lg text-blue-50 group-hover:text-green-400 transition font-medium">kontak@sdn3lamuk.sch.id</p>
                     </div>
                     
                     <div class="group">

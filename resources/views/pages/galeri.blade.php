@@ -12,7 +12,7 @@
             <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-4 uppercase tracking-tighter">
                 Galeri <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">Momen Berharga</span>
             </h1>
-            <p class="text-gray-500 text-lg italic">Menyimpan setiap jejak langkah dan prestasi siswa SDN 2 MARGASARI dalam bingkai dokumentasi terbaik.</p>
+            <p class="text-gray-500 text-lg italic">Menyimpan setiap jejak langkah dan prestasi siswa SDN 3 LAMUK dalam bingkai dokumentasi terbaik.</p>
         </div>
 
         <div class="flex flex-wrap justify-center gap-3 mb-12">
@@ -70,7 +70,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-blue-900/90 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500"></div>
                 
                 <div class="absolute inset-0 p-6 flex flex-col justify-end translate-y-8 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-500">
-                    <p class="text-[10px] text-green-400 font-black uppercase tracking-[0.2em] mb-1">SDN 2 MARGASARI</p>
+                    <p class="text-[10px] text-green-400 font-black uppercase tracking-[0.2em] mb-1">SDN 3 LAMUK</p>
                     <h3 class="text-white font-bold text-lg leading-tight uppercase tracking-tight">{{ $img['title'] }}</h3>
                     
                     <div class="mt-4 flex items-center justify-between">

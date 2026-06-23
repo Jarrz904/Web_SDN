@@ -12,7 +12,7 @@
             <h1 class="text-4xl md:text-5xl font-black text-slate-900 uppercase tracking-tighter mb-4">
                 Struktur <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">Organisasi</span>
             </h1>
-            <p class="text-gray-500 text-lg italic">Sinergi kepemimpinan dan manajemen profesional SDN 2 MARGASARI TA 2025/2026.</p>
+            <p class="text-gray-500 text-lg italic">Sinergi kepemimpinan dan manajemen profesional SDN 3 LAMUK TA 2025/2026.</p>
             <div class="w-24 h-1.5 bg-green-500 mx-auto mt-6 rounded-full"></div>
         </div>
         
@@ -26,9 +26,9 @@
                     </p>
                 </div>
 
-                <img src="https://via.placeholder.com/1200x800?text=Bagan+Struktur+Organisasi+SDN+2+MARGASARI" 
-                     alt="Struktur Organisasi SDN 2 MARGASARI" 
-                     class="mx-auto rounded-[2rem] shadow-2xl transition-all duration-700 group-hover:scale-[1.02] border-4 border-white">
+                <img src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAExy1mKjvbpib8VDfvdMASsLXxBK7fdNFXZ1mYEtn0PXiErIWxaBGDFkJvqUpQV16VKa0wa_vVN4hkFxJxrKc0_niTS4k6HUjKchn8J4EevVixsS_fUoKGmFLUKQf2cyYKSPL_7ng=w408-h306-k-no" 
+                     alt="Struktur Organisasi SDN 3 LAMUK" 
+                     class="mx-auto rounded-[2rem] shadow-2xl transition-all duration-700 group-hover:scale-[1.02] border-4 border-white w-full h-auto">
                 
                 <div class="absolute bottom-10 right-10 flex gap-3">
                     <button class="p-4 bg-white/90 backdrop-blur-md text-blue-900 rounded-2xl shadow-xl hover:bg-blue-900 hover:text-white transition duration-300">
@@ -81,7 +81,7 @@
             <div class="relative z-10">
                 <h4 class="text-white text-lg font-bold mb-2">Transparansi Manajemen</h4>
                 <p class="text-slate-400 text-sm italic max-w-2xl mx-auto leading-relaxed">
-                    Struktur organisasi ini dibuat untuk memastikan tata kelola sekolah yang akuntabel, efektif, dan efisien demi pelayanan pendidikan terbaik bagi seluruh siswa SDN 2 Margasari.
+                    Struktur organisasi ini dibuat untuk memastikan tata kelola sekolah yang akuntabel, efektif, dan efisien demi pelayanan pendidikan terbaik bagi seluruh siswa SDN 3 LAMUK.
                 </p>
             </div>
         </div>

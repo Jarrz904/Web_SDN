@@ -12,7 +12,7 @@
             <h1 class="text-4xl md:text-5xl font-black text-slate-900 uppercase tracking-tighter mb-4">
                 Data <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-900 to-green-600">Peserta Didik</span>
             </h1>
-            <p class="text-gray-500 text-lg italic">Gambaran umum pertumbuhan dan sebaran statistik siswa SDN 2 MARGASARI.</p>
+            <p class="text-gray-500 text-lg italic">Gambaran umum pertumbuhan dan sebaran statistik siswa SDN 3 LAMUK.</p>
             <div class="w-24 h-1.5 bg-green-500 mx-auto mt-6 rounded-full"></div>
         </div>
 

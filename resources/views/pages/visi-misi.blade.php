@@ -15,7 +15,7 @@
             Visi, Misi <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-cyan-300">& Tujuan</span>
         </h1>
         <p class="text-blue-100 max-w-2xl mx-auto italic text-lg opacity-80 font-light leading-relaxed">
-            "Menjadi kompas bagi SDN 2 MARGASARI dalam membentuk karakter unggul dan kecemerlangan akademik di era digital."
+            "Menjadi kompas bagi SDN 3 LAMUK dalam membentuk karakter unggul dan kecemerlangan akademik di era digital."
         </p>
     </div>
 </section>
@@ -140,7 +140,7 @@
                 "Pendidikan bukan sekadar mengisi wadah yang kosong, namun tentang <span class="text-blue-900">menyalakan api karakter</span> dalam jiwa setiap anak."
             </p>
             <div class="mt-10">
-                <p class="font-black text-blue-900 uppercase tracking-[0.5em] text-sm">SDN 2 MARGASARI</p>
+                <p class="font-black text-blue-900 uppercase tracking-[0.5em] text-sm">SDN 3 LAMUK</p>
                 <div class="mt-2 flex justify-center gap-1">
                     <div class="w-2 h-2 rounded-full bg-green-500"></div>
                     <div class="w-8 h-2 rounded-full bg-blue-900"></div>
